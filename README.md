@@ -27,3 +27,6 @@ Curating the best resource to learn everything about blockchain and cryptocurren
 - [P2P Networking](https://nakamoto.com/p2p-networking/) - by HASEEB QURESHI from Nakamoto.com.
 - [Bitcoin P2P Network](https://nakamoto.com/bitcoins-p2p-network/) - by HASEEB QURESHI from Nakamoto.com.
 
+### Online courses / MOOC
+- [CS 251: Bitcoin and Cryptocurrencies](https://cs251.stanford.edu/syllabus.html) - by Prof. Dan Boneh from Stanford University.
+- [Cryptography I](https://www.coursera.org/learn/crypto) - by Prof. Dan Boneh from Stanford University.

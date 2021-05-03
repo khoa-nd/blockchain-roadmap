@@ -14,3 +14,16 @@ Initialized by: Github: https://github.com/khoa-nd - Twitter: @nguyen_dangkhoa -
 * Export the JSON file <kbd>Project > Export > Mockup to JSON</kbd> and put it in the <kbd>src</kbd> directory
 * Export the image <kbd>Project > Export > Current Mockup to PNG</kbd> and put it in the <kbd>images</kbd> directory
 * Commits your changes and open a PR
+
+## Awesome Learning Contents
+Curating the best resource to learn everything about blockchain and cryptocurrencies
+
+### Cryptography 101
+- [Hash Functions](https://nakamoto.com/hash-functions) - by HASEEB QURESHI from Nakamoto.com.
+- [Merkle Trees](https://nakamoto.com/merkle-trees/) - by HASEEB QURESHI from Nakamoto.com.
+- [Public-Key Cryptography](https://nakamoto.com/public-key-cryptography/) by HASEEB QURESHI from Nakamoto.com.
+
+### Network protocols
+- [P2P Networking](https://nakamoto.com/p2p-networking/) - by HASEEB QURESHI from Nakamoto.com.
+- [Bitcoin P2P Network](https://nakamoto.com/bitcoins-p2p-network/) - by HASEEB QURESHI from Nakamoto.com.
+

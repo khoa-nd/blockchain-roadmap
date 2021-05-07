@@ -1,7 +1,7 @@
 # Blockchain Developer Roadmap - v2021.04
 Initialized by: Github: https://github.com/khoa-nd - Twitter: @nguyen_dangkhoa - Telegram: @khoand709
 <br />Inspired by: https://roadmap.sh/
-![Blockchain Developer Roadmap - v2021.04](https://github.com/khoa-nd/blockchain-roadmap/blob/16e4adb50aa223b43fc4ba78098a4150e87932e5/blockchain-developer-roadmap.png)
+![Blockchain Developer Roadmap - v2021.05](https://github.com/khoa-nd/blockchain-roadmap/blob/b021ac93ce372caac3406fd67c38591a87ed79e6/blockchain-developer-roadmap.png)
 
 ## How to contribute
 
@@ -30,3 +30,9 @@ Curating the best resource to learn everything about blockchain and cryptocurren
 ### Online courses / MOOC
 - [CS 251: Bitcoin and Cryptocurrencies](https://cs251.stanford.edu/syllabus.html) - by Prof. Dan Boneh from Stanford University.
 - [Cryptography I](https://www.coursera.org/learn/crypto) - by Prof. Dan Boneh from Stanford University.
+
+### Smart Contract Development with Ethereum
+- [INTRODUCTION TO SMART CONTRACTS](https://ethereum.org/en/developers/docs/smart-contracts/)
+- [What are Smart Contracts?](https://blockgeeks.com/guides/smart-contracts/)
+- [Learn to code Ethereum dapps by building your own game](https://cryptozombies.io/en/course) - from CryptoZombies.
+- [Best Practices for Smart Contract Development](https://yos.io/2019/11/10/smart-contract-development-best-practices/)

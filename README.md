@@ -1,7 +1,7 @@
 # Blockchain Developer Roadmap - v2021.05
 Initialized by: Github: https://github.com/khoa-nd - Twitter: @nguyen_dangkhoa - Telegram: @khoand709
 <br />Inspired by: https://roadmap.sh/
-![Blockchain Developer Roadmap - v2021.05](https://github.com/khoa-nd/blockchain-roadmap/blob/b021ac93ce372caac3406fd67c38591a87ed79e6/blockchain-developer-roadmap.png)
+![Blockchain Developer Roadmap - v2021.05](https://raw.githubusercontent.com/khoa-nd/blockchain-roadmap/main/blockchain-developer-roadmap.png)
 
 ## How to contribute
 

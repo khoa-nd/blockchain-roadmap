@@ -36,3 +36,7 @@ Curating the best resource to learn everything about blockchain and cryptocurren
 - [What are Smart Contracts?](https://blockgeeks.com/guides/smart-contracts/)
 - [Learn to code Ethereum dapps by building your own game](https://cryptozombies.io/en/course) - from CryptoZombies.
 - [Best Practices for Smart Contract Development](https://yos.io/2019/11/10/smart-contract-development-best-practices/)
+
+### Truffle
+- [Truffle compiler configurations](https://www.trufflesuite.com/docs/truffle/reference/configuration)
+- Install Truffle NodeLTS
